@@ -1,0 +1,15 @@
+{
+  "name": "pizza-baker",
+  "globalDependencies": {
+    "fbemitter": "registry:dt/fbemitter#2.0.0+20160618175531",
+    "flux": "registry:dt/flux#0.0.0+20160618175531",
+    "history": "registry:dt/history#1.8.0+20160316155526",
+    "immutable": "registry:dt/immutable#3.8.1+20160608070634",
+    "jquery": "registry:dt/jquery#1.10.0+20160417213236",
+    "react": "registry:dt/react#0.14.0+20160630100702",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040"
+  },
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160701205107"
+  }
+}
